@@ -1,0 +1,42 @@
+{
+  "name": "flow-fp",
+  "version": "1.0.0",
+  "description": "Flux architecture for React app. Fast and easy to apply",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linq2js/fluxez.git"
+  },
+  "keywords": [
+    "functional",
+    "functional programming",
+    "flux",
+    "react",
+    "es6",
+    "state",
+    "state management",
+    "redux",
+    "store"
+  ],
+  "author": "linq2js",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/linq2js/fluxez/issues"
+  },
+  "homepage": "https://github.com/linq2js/fluxez#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-jest": "^23.0.1",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^23.1.0"
+  },
+  "jest": {
+    "transformIgnorePatterns": []
+  }
+}
